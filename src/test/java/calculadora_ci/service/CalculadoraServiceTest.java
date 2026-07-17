@@ -20,7 +20,7 @@ class CalculadoraServiceTest {
 
     @Test
     void deveSubtrair() {
-        assertEquals(5, service.subtrair(8,3));
+        assertEquals(5, service.subtrair(10,3));
     }
 
     @Test
